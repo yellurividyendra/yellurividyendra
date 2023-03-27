@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidyendra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0e697e1adebf339fffefa3be33c267dc2933cfe41398f8a3adec535473eade4f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3835302f302a37513379765349765f7430696f4a2d5a2e676966">
 
