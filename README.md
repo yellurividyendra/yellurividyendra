@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yellurividyendra&label=Profile%20views&color=0e75b6&style=flat" alt="yellurividyendra" /> </p>
 
+- 🔭 I’m currently **a First Year student at IIITL(Information Technology)**
+
 - 🌱 I’m currently learning **kotlin**
 
 - 📫 How to reach me **iit2022057@iiitl.ac.in**
