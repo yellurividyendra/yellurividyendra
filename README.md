@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidyendra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Freshman Pursuing Bachelors in Technology at IIIT Lucknow</h3>
 
 
 <p align="center">
