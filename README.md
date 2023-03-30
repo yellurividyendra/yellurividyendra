@@ -37,4 +37,4 @@
 **Visitor Count**-  
 ![Visitor Count](https://profile-counter.glitch.me/yellurividyendra/count.svg)
 </p>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(5em)">
